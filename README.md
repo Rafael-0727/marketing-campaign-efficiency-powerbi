@@ -10,11 +10,11 @@ Across all tracked campaigns, marketing spend generated strong top-line return w
 * **Total Estimated Revenue:** $660.91B
 * **Weighted ROI:** 500.3% (6.00x ROAS)
 * **True Cost Per Acquisition (CPA):** $12.50K
-* **Weighted Conversion Rate (CVR):** ~8.00%
+* **Weighted Conversion Rate (CVR):** 8.00%
 
 ## Key Analytical Insights
-1. **Channel Efficiency Quadrant (Website vs. Email):** While **Email** drove the highest total volume (~$19B spend generating ~$111B in revenue), **Website** campaigns achieved the strongest unit economics—delivering the lowest True CPA (~$12,462) alongside one of the highest Weighted CVRs (~8.03%).
-2. **Volume vs. Cost Trade-Off:** **Email** and **Google Ads** experienced slightly higher acquisition costs (~$12,533 CPA) compared to **Website** and **Instagram**, indicating opportunities to test bid caps on high-volume paid search and email segments.
+1. **Channel Efficiency Quadrant (Website vs. Email):** While **Email** drove the highest total volume (approx. $19B spend generating approx. $111B in revenue), **Website** campaigns achieved the strongest unit economics—delivering the lowest True CPA ($12,462) alongside one of the highest Weighted CVRs (8.03%).
+2. **Volume vs. Cost Trade-Off:** **Email** and **Google Ads** experienced slightly higher acquisition costs ($12,533 CPA) compared to **Website** and **Instagram**, indicating opportunities to test bid caps on high-volume paid search and email segments.
 3. **Seasonal ROI Performance:** Monthly spend remained steady between **$8.4B and $9.4B**, while Weighted ROI fluctuated within a tight **497.3%–504.1%** band—peaking in **September (504.1%)** and **January (503.1%)** and dipping slightly in **August (497.3%)**.
 
 ## Data Modeling & DAX Methodology
